@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/camera-scaner/static/css/main.92c16433.css",
-    "main.js": "/camera-scaner/static/js/main.3938cfd5.js",
+    "main.css": "/camera-scaner/static/css/main.ae439646.css",
+    "main.js": "/camera-scaner/static/js/main.59088a82.js",
     "index.html": "/camera-scaner/index.html",
-    "main.92c16433.css.map": "/camera-scaner/static/css/main.92c16433.css.map",
-    "main.3938cfd5.js.map": "/camera-scaner/static/js/main.3938cfd5.js.map"
+    "main.ae439646.css.map": "/camera-scaner/static/css/main.ae439646.css.map",
+    "main.59088a82.js.map": "/camera-scaner/static/js/main.59088a82.js.map"
   },
   "entrypoints": [
-    "static/css/main.92c16433.css",
-    "static/js/main.3938cfd5.js"
+    "static/css/main.ae439646.css",
+    "static/js/main.59088a82.js"
   ]
 }
