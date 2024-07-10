@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/camera-scaner/static/css/main.4e1e705c.css",
-    "main.js": "/camera-scaner/static/js/main.8a05c52e.js",
+    "main.css": "/camera-scaner/static/css/main.09bea1e6.css",
+    "main.js": "/camera-scaner/static/js/main.6370e5f9.js",
     "static/media/SF-Pro-Display-Medium.otf": "/camera-scaner/static/media/SF-Pro-Display-Medium.b85d841dacb040b84951.otf",
     "static/media/SF-Pro-Display-Bold.otf": "/camera-scaner/static/media/SF-Pro-Display-Bold.b1f4d2c69fa808ebca12.otf",
     "static/media/SF-Pro-Display-Light.otf": "/camera-scaner/static/media/SF-Pro-Display-Light.5a47a04ca76b10e69ca3.otf",
     "static/media/SF-Pro-Display-Regular.otf": "/camera-scaner/static/media/SF-Pro-Display-Regular.d1f5e6e16dd4f75c3950.otf",
     "index.html": "/camera-scaner/index.html",
-    "main.4e1e705c.css.map": "/camera-scaner/static/css/main.4e1e705c.css.map",
-    "main.8a05c52e.js.map": "/camera-scaner/static/js/main.8a05c52e.js.map"
+    "main.09bea1e6.css.map": "/camera-scaner/static/css/main.09bea1e6.css.map",
+    "main.6370e5f9.js.map": "/camera-scaner/static/js/main.6370e5f9.js.map"
   },
   "entrypoints": [
-    "static/css/main.4e1e705c.css",
-    "static/js/main.8a05c52e.js"
+    "static/css/main.09bea1e6.css",
+    "static/js/main.6370e5f9.js"
   ]
 }
